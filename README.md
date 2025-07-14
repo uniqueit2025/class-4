@@ -1,4 +1,2 @@
 # class-4
-This is our class 4 codebase
-
-I made this change
+Turn lights one after another with one second gap
